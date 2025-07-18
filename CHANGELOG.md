@@ -11,6 +11,7 @@
 ### 🚧 Chores
 
 - **docker:** add netcat to the standalone docker image ([#737](https://github.com/t0bst4r/home-assistant-matter-hub/issues/737))
+- temporarily downgrade @matter dependencies to 0.12.5 to mitigate Alexa connection issues
 
 ### ❤️ Thank You
 

@@ -11,6 +11,9 @@ It seems to be a bug in the Alexa eco-system, which we cannot fix on our site.
 
 We are currently in contact with Amazon and try to find the reasons for this.
 
+As a temporary workaround, the addon now uses version 0.12.5 of the `@matter/*`
+packages to restore Alexa connectivity.
+
 ---
 
 ## About
